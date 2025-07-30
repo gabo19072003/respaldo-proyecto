@@ -1,0 +1,68 @@
+{
+    "createRefComponentTypeRequestDto": {
+        "label": "NODO_TIPO_COMPONENTE",
+        "name": "Nodo tipo componente",
+        "status": 3,
+        "commentApproval": "",
+        "tipo": "logico",
+        "flagAlone": true
+    },
+    "createConfigDataRequestDto": [
+        {
+            "componentTypeId": 0,
+            "networkId": 16,
+            "status": 0,
+            "configAttributes": [
+                {
+                    "name": "tac_id",
+                    "label": "Tracking Area Code del Componente",
+                    "type": "number",
+                    "html_form_type": "input",
+                    "place_holder": "Ingrese aquí el TAC_ID del Componente",
+                    "required": true,
+                    "default": true
+                },
+                {
+                    "name": "cliente_id",
+                    "type": "number",
+                    "label": "Cliente",
+                    "default": true,
+                    "required": false,
+                    "html_form_type": "select",
+                    "valores_posibles_source": "https://gxx69hw1-8086.use2.devtunnels.ms/api/v1/cnr/clients?limit=1000&page=1",
+                    "valores_posibles_response": [
+                        "nombreadministrativo",
+                        "id"
+                    ],
+                    "on_change": {
+                        "target_name": "nodo_a",
+                        "valores_posibles_source": "./componentes/tc=23232&id_estacion=@value",
+						"valores_posibles_response": [
+                        "nombreadministrativo",
+                        "id"
+                    ]
+                    }
+				},
+				
+				{
+                    "name": "tarjeta_a",
+                    "type": "number",
+                    "label": "Tarjeta TMVE",
+                    "default": false,
+                    "required": true,
+                    "html_form_type": "input",
+				    "valores_posibles_source": "https://gxx69hw1-8086.use2.devtunnels.ms/api/v1/cnr/clients?limit=1000&page=1",
+					"valores_posibles_response": [
+                        "nombreadministrativo",
+                        "id"
+                    ],
+                    "depend_of": "nodo_a"
+				}
+				
+				
+            ],
+            "configServices": []
+        }
+    ],
+    "createConfigRelationRequestDto": []
+}

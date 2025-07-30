@@ -1,0 +1,42 @@
+body{
+    background: url("../images/fondo.png") no-repeat center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 100vh;
+}
+
+body::before {
+    content: "";
+    background: rgba(0, 0, 0, 0.5); /* Color negro con opacidad del 50% */
+    filter: blur(5px); /* Aplica un desenfoque de 5px a la imagen de fondo */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 450px;
+    margin: auto;
+}
+.form{
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+
+a{
+  font-weight: bold;
+  color: #0B5ED7;
+  text-decoration: none;
+}
+
+a:hover {
+   text-decoration: none;
+   color: #094CAE;
+}
