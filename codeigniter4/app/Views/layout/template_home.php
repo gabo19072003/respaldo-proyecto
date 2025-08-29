@@ -5,7 +5,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Biblioteca Michel Roche</title>
+  <title>Biblioteca </title> <!-- Michel Roche -->
 
   <!-- base:css -->
   <link rel="stylesheet" href="<?= base_url('/public/bootstrap-icons/font/bootstrap-icons.min.css'); ?>">
@@ -24,7 +24,7 @@
   <link rel="stylesheet" href="<?= base_url('/public/css/bootstrap-clockpicker.min.css'); ?>">
   <!-- endinject -->
 
-  <link rel="shortcut icon" href="<?= base_url('/public/images/logo.png'); ?>" />
+ <!-- logo de la pestaña del ivic <link rel="shortcut icon" href="<?= base_url('/public/images/logo.png'); ?>" />-->
 
 </head>
 

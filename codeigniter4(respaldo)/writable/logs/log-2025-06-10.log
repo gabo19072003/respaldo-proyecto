@@ -1,0 +1,145 @@
+CRITICAL - 2025-06-10 09:26:16 --> ErrorException: Undefined variable $persona
+[Method: GET, Route: sesion/crear]
+in APPPATH\Views\sesion\crear.php on line 72.
+ 1 APPPATH\Views\sesion\crear.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persona', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\sesion\\crear.php', 72)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\sesion\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('sesion/crear', [], true)
+ 5 APPPATH\Controllers\Sesiones.php(29): view('sesion/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Sesiones->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sesiones))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-06-10 09:29:20 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2025-06-10 09:29:20 --> 220 BN9PR03CA0528.outlook.office365.com Microsoft ESMTP MAIL Service ready at Tue, 10 Jun 2025 19:29:33 +0000 [08DDA83BBB13B9F4]
+
+hello: 250-BN9PR03CA0528.outlook.office365.com Hello [45.166.16.10]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 SMTP server ready
+
+hello: 250-BN9PR03CA0528.outlook.office365.com Hello [45.166.16.10]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN XOAUTH2
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 
+CRITICAL - 2025-06-10 09:31:30 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: usuario/borrar/25]
+in APPPATH\Controllers\Usuarios.php on line 178.
+ 1 APPPATH\Controllers\Usuarios.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 178)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->borrar('25')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-10 09:33:03 --> ErrorException: unlink(public/uploads/1718839862_f0076575e24c13737af1.jpg): No such file or directory
+[Method: POST, Route: persona/actualizar]
+in APPPATH\Controllers\Personas.php on line 322.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(public/uploads/1718839862_f0076575e24c13737af1.jpg): No such file or directory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Personas.php', 322)
+ 2 APPPATH\Controllers\Personas.php(322): unlink('public/uploads/1718839862_f0076575e24c13737af1.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Personas->actualizar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Personas))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-10 09:33:21 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: usuario/borrar/25]
+in APPPATH\Controllers\Usuarios.php on line 178.
+ 1 APPPATH\Controllers\Usuarios.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 178)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->borrar('25')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-10 09:40:33 --> ErrorException: Undefined variable $persona
+[Method: GET, Route: sesion/crear]
+in APPPATH\Views\sesion\crear.php on line 72.
+ 1 APPPATH\Views\sesion\crear.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $persona', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\sesion\\crear.php', 72)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\sesion\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('sesion/crear', [], true)
+ 5 APPPATH\Controllers\Sesiones.php(29): view('sesion/crear')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Sesiones->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sesiones))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-10 09:41:41 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: usuario/borrar/25]
+in APPPATH\Controllers\Usuarios.php on line 178.
+ 1 APPPATH\Controllers\Usuarios.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 178)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->borrar('25')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-10 09:47:05 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: usuario/borrar/25]
+in APPPATH\Controllers\Usuarios.php on line 178.
+ 1 APPPATH\Controllers\Usuarios.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 178)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->borrar('25')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-10 09:48:30 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: usuario/borrar/29]
+in APPPATH\Controllers\Usuarios.php on line 178.
+ 1 APPPATH\Controllers\Usuarios.php(178): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 178)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->borrar('29')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-06-10 10:48:07 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2025-06-10 10:48:07 --> 220 BN8PR04CA0060.outlook.office365.com Microsoft ESMTP MAIL Service ready at Tue, 10 Jun 2025 20:48:19 +0000 [08DDA7F034BF8E12]
+
+hello: 250-BN8PR04CA0060.outlook.office365.com Hello [45.166.16.10]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 SMTP server ready
+
+hello: 250-BN8PR04CA0060.outlook.office365.com Hello [45.166.16.10]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN XOAUTH2
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 

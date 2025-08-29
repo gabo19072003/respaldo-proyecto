@@ -7,7 +7,7 @@
                 <div class="d-flex justify-content-center">
                 <div class="w-50"><img src="<?= base_url('/public/images/logo.png'); ?>" alt="" class="img-fluid"></div>
                 </div>
-                <h1 class="fs-4 card-title text-center fw-bold mb-4">Biblioteca Marcel Roche</h1>
+                <h1 class="fs-4 card-title text-center fw-bold mb-4">Biblioteca </h1> <!-- Michel Roche -->
                 
                 <div class="row text-center">
                     

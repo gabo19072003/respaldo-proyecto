@@ -1,0 +1,892 @@
+INFO - 2024-06-06 09:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 09:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 09:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:33:42 --> Error: Class "CodeIgniter\BaseController" not found
+[Method: GET, Route: usuario]
+in APPPATH\Controllers\Usuarios.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Usuarios', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:35:14 --> ErrorException: Undefined property: App\Controllers\Usuarios::$db
+[Method: GET, Route: usuario]
+in APPPATH\Controllers\Usuarios.php on line 11.
+ 1 APPPATH\Controllers\Usuarios.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Usuarios::$db', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:41:02 --> Error: Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+[Method: GET, Route: usuario]
+in APPPATH\Controllers\Usuarios.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:42:51 --> ErrorException: Undefined property: App\Controllers\Usuarios::$db
+[Method: GET, Route: usuario]
+in APPPATH\Controllers\Usuarios.php on line 14.
+ 1 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Usuarios::$db', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:44:50 --> ErrorException: Undefined property: App\Controllers\Usuarios::$db
+[Method: GET, Route: usuario]
+in APPPATH\Controllers\Usuarios.php on line 14.
+ 1 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Usuarios::$db', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:44:56 --> ErrorException: Undefined property: App\Controllers\Usuarios::$db
+[Method: GET, Route: usuario]
+in APPPATH\Controllers\Usuarios.php on line 14.
+ 1 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Usuarios::$db', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:47:16 --> ErrorException: Undefined property: App\Controllers\Usuarios::$db
+[Method: GET, Route: usuario]
+in APPPATH\Controllers\Usuarios.php on line 14.
+ 1 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Usuarios::$db', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:52:16 --> ErrorException: Undefined property: App\Controllers\Usuarios::$db
+[Method: GET, Route: usuario]
+in APPPATH\Controllers\Usuarios.php on line 14.
+ 1 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Usuarios::$db', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:52:30 --> ErrorException: Undefined property: App\Controllers\Usuarios::$db
+[Method: GET, Route: usuario]
+in APPPATH\Controllers\Usuarios.php on line 14.
+ 1 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Usuarios::$db', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 14)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-06 09:52:59 --> mysqli_sql_exception: Unknown column 'rol.rol_name' in 'field list' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT personas...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT personas...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT personas...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Usuarios.php(14): CodeIgniter\Database\BaseConnection->query('SELECT personas...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2024-06-06 09:52:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'rol.rol_name' in 'field list'
+[Method: GET, Route: usuario]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Database\BaseConnection->query('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol_name, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 09:52:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'rol.rol_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol_name, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol_name, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 3 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Database\BaseConnection->query('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol_name, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 09:52:59 --> [Caused by] mysqli_sql_exception: Unknown column 'rol.rol_name' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol_name, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol_name, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol_name, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 4 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Database\BaseConnection->query('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol_name, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-06 09:53:36 --> mysqli_sql_exception: Unknown column 'rol.rol' in 'field list' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('SELECT personas...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT personas...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT personas...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Usuarios.php(14): CodeIgniter\Database\BaseConnection->query('SELECT personas...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2024-06-06 09:53:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'rol.rol' in 'field list'
+[Method: GET, Route: usuario]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Database\BaseConnection->query('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 09:53:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'rol.rol' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 3 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Database\BaseConnection->query('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 09:53:36 --> [Caused by] mysqli_sql_exception: Unknown column 'rol.rol' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 4 APPPATH\Controllers\Usuarios.php(14): CodeIgniter\Database\BaseConnection->query('SELECT personas.persona_nombre, personas.persona_apellido, rol.rol, users.user, users.user_active, personas.persona_email
+                FROM personas
+                JOIN users ON personas.persona_id = users.persona_id
+                JOIN rol ON users.rol_id = rol.rol_id')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:54:31 --> ParseError: syntax error, unexpected token "echo"
+[Method: GET, Route: usuario]
+in APPPATH\Views\usuario\listar.php on line 53.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/listar', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(21): view('usuario/listar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:56:47 --> ParseError: syntax error, unexpected token "echo"
+[Method: GET, Route: usuario]
+in APPPATH\Views\usuario\listar.php on line 53.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/listar', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(21): view('usuario/listar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:58:34 --> ParseError: syntax error, unexpected token ";"
+[Method: GET, Route: usuario]
+in APPPATH\Views\usuario\listar.php on line 53.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/listar', [], true)
+ 3 APPPATH\Controllers\Usuarios.php(21): view('usuario/listar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 09:59:07 --> ErrorException: Undefined variable $users
+[Method: GET, Route: usuario]
+in APPPATH\Views\usuario\listar.php on line 50.
+ 1 APPPATH\Views\usuario\listar.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\usuario\\listar.php', 50)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\usuario\\listar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/listar', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(21): view('usuario/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 09:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 09:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:05:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:19:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 10:19:22 --> ErrorException: Undefined array key "nombre"
+[Method: GET, Route: usuario]
+in APPPATH\Views\usuario\listar.php on line 53.
+ 1 APPPATH\Views\usuario\listar.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\usuario\\listar.php', 53)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\usuario\\listar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/listar', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(20): view('usuario/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 10:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:22:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 10:23:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 11:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 11:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 11:27:01 --> Error: Class "CodeIgniter\BaseController" not found
+[Method: GET, Route: register]
+in APPPATH\Controllers\Users.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Users.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Users')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Users')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Users', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 11:27:32 --> Error: Class "App\CodeIgniter\BaseController" not found
+[Method: GET, Route: register]
+in APPPATH\Controllers\Users.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(317): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Users.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Users')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Users')
+ 5 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Users', true)
+ 6 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 11:29:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 11:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 11:29:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 11:29:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 11:30:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 11:30:19 --> ErrorException: Undefined variable $users
+[Method: GET, Route: usuario/crear]
+in APPPATH\Views\usuario\listar.php on line 49.
+ 1 APPPATH\Views\usuario\listar.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\usuario\\listar.php', 49)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\usuario\\listar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/listar', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(28): view('usuario/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 11:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 11:31:49 --> ErrorException: Undefined variable $roles
+[Method: GET, Route: usuario/crear]
+in APPPATH\Views\usuario\crear.php on line 92.
+ 1 APPPATH\Views\usuario\crear.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $roles', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\usuario\\crear.php', 92)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\usuario\\crear.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('usuario/crear', [], true)
+ 5 APPPATH\Controllers\Usuarios.php(28): view('usuario/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 11:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 11:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 11:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 11:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 11:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 11:47:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-06 12:25:01 --> mysqli_sql_exception: Column 'user' cannot be null in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Usuarios.php(86): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-06-06 12:25:01 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'user' cannot be null
+[Method: POST, Route: usuario/guardar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Usuarios.php(86): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 12:25:01 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$GIKpcHWpL9oSRQFdO.7zOOnO7s7/YgVm/6tq/TFn2kXm1tkjikoya\', NULL, NULL, 0, \'c801d2f6a2ef289cd67850f90992f61aa53b05f4\', \'2024-06-06 12:25:00\', \'2024-06-06 12:25:00\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$GIKpcHWpL9oSRQFdO.7zOOnO7s7/YgVm/6tq/TFn2kXm1tkjikoya\', NULL, NULL, 0, \'c801d2f6a2ef289cd67850f90992f61aa53b05f4\', \'2024-06-06 12:25:00\', \'2024-06-06 12:25:00\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Usuarios.php(86): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 12:25:01 --> [Caused by] mysqli_sql_exception: Column 'user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$GIKpcHWpL9oSRQFdO.7zOOnO7s7/YgVm/6tq/TFn2kXm1tkjikoya\', NULL, NULL, 0, \'c801d2f6a2ef289cd67850f90992f61aa53b05f4\', \'2024-06-06 12:25:00\', \'2024-06-06 12:25:00\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$GIKpcHWpL9oSRQFdO.7zOOnO7s7/YgVm/6tq/TFn2kXm1tkjikoya\', NULL, NULL, 0, \'c801d2f6a2ef289cd67850f90992f61aa53b05f4\', \'2024-06-06 12:25:00\', \'2024-06-06 12:25:00\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$GIKpcHWpL9oSRQFdO.7zOOnO7s7/YgVm/6tq/TFn2kXm1tkjikoya\', NULL, NULL, 0, \'c801d2f6a2ef289cd67850f90992f61aa53b05f4\', \'2024-06-06 12:25:00\', \'2024-06-06 12:25:00\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Usuarios.php(86): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 12:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 12:30:37 --> ParseError: syntax error, unexpected single-quoted string "rol_id", expecting "]"
+[Method: POST, Route: usuario/guardar]
+in APPPATH\Controllers\Usuarios.php on line 72.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Usuarios')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Usuarios', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 12:30:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-06 12:30:57 --> mysqli_sql_exception: Column 'user' cannot be null in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Usuarios.php(92): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-06-06 12:30:57 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'user' cannot be null
+[Method: POST, Route: usuario/guardar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 12:30:57 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$hIiHk598LJvy/8xXTR6BWO0wF4UmwUCqCa9.fAvAygSwhmqoBTQu6\', NULL, NULL, 0, \'c3ce2ef995cbc93bb26771137277a0232a0ad621\', \'2024-06-06 12:30:57\', \'2024-06-06 12:30:57\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$hIiHk598LJvy/8xXTR6BWO0wF4UmwUCqCa9.fAvAygSwhmqoBTQu6\', NULL, NULL, 0, \'c3ce2ef995cbc93bb26771137277a0232a0ad621\', \'2024-06-06 12:30:57\', \'2024-06-06 12:30:57\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 12:30:57 --> [Caused by] mysqli_sql_exception: Column 'user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$hIiHk598LJvy/8xXTR6BWO0wF4UmwUCqCa9.fAvAygSwhmqoBTQu6\', NULL, NULL, 0, \'c3ce2ef995cbc93bb26771137277a0232a0ad621\', \'2024-06-06 12:30:57\', \'2024-06-06 12:30:57\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$hIiHk598LJvy/8xXTR6BWO0wF4UmwUCqCa9.fAvAygSwhmqoBTQu6\', NULL, NULL, 0, \'c3ce2ef995cbc93bb26771137277a0232a0ad621\', \'2024-06-06 12:30:57\', \'2024-06-06 12:30:57\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$hIiHk598LJvy/8xXTR6BWO0wF4UmwUCqCa9.fAvAygSwhmqoBTQu6\', NULL, NULL, 0, \'c3ce2ef995cbc93bb26771137277a0232a0ad621\', \'2024-06-06 12:30:57\', \'2024-06-06 12:30:57\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 12:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-06 12:33:42 --> mysqli_sql_exception: Column 'user' cannot be null in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Usuarios.php(92): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-06-06 12:33:42 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'user' cannot be null
+[Method: POST, Route: usuario/guardar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 12:33:42 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$uuzGKhuUUbg7XmNLBCPbz.ogVPAr9zKG.r0aaZUx9WmJVNosRDTqO\', NULL, NULL, 0, \'06f26ea16cbb823181dd66299fa2aa4d87c04c28\', \'2024-06-06 12:33:42\', \'2024-06-06 12:33:42\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$uuzGKhuUUbg7XmNLBCPbz.ogVPAr9zKG.r0aaZUx9WmJVNosRDTqO\', NULL, NULL, 0, \'06f26ea16cbb823181dd66299fa2aa4d87c04c28\', \'2024-06-06 12:33:42\', \'2024-06-06 12:33:42\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 12:33:42 --> [Caused by] mysqli_sql_exception: Column 'user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$uuzGKhuUUbg7XmNLBCPbz.ogVPAr9zKG.r0aaZUx9WmJVNosRDTqO\', NULL, NULL, 0, \'06f26ea16cbb823181dd66299fa2aa4d87c04c28\', \'2024-06-06 12:33:42\', \'2024-06-06 12:33:42\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$uuzGKhuUUbg7XmNLBCPbz.ogVPAr9zKG.r0aaZUx9WmJVNosRDTqO\', NULL, NULL, 0, \'06f26ea16cbb823181dd66299fa2aa4d87c04c28\', \'2024-06-06 12:33:42\', \'2024-06-06 12:33:42\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$uuzGKhuUUbg7XmNLBCPbz.ogVPAr9zKG.r0aaZUx9WmJVNosRDTqO\', NULL, NULL, 0, \'06f26ea16cbb823181dd66299fa2aa4d87c04c28\', \'2024-06-06 12:33:42\', \'2024-06-06 12:33:42\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 12:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:33:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-06 12:33:54 --> mysqli_sql_exception: Column 'user' cannot be null in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Usuarios.php(92): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-06-06 12:33:54 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'user' cannot be null
+[Method: POST, Route: usuario/guardar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 12:33:54 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$R3dubu2Cwh616irDxuFI6uwYFdWunyzUB4EjV7NO8X2i05fhvlWM2\', NULL, NULL, 0, \'f97284a342ee40002ee88d8e1414e0f1457cbeb1\', \'2024-06-06 12:33:54\', \'2024-06-06 12:33:54\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$R3dubu2Cwh616irDxuFI6uwYFdWunyzUB4EjV7NO8X2i05fhvlWM2\', NULL, NULL, 0, \'f97284a342ee40002ee88d8e1414e0f1457cbeb1\', \'2024-06-06 12:33:54\', \'2024-06-06 12:33:54\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 12:33:54 --> [Caused by] mysqli_sql_exception: Column 'user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$R3dubu2Cwh616irDxuFI6uwYFdWunyzUB4EjV7NO8X2i05fhvlWM2\', NULL, NULL, 0, \'f97284a342ee40002ee88d8e1414e0f1457cbeb1\', \'2024-06-06 12:33:54\', \'2024-06-06 12:33:54\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$R3dubu2Cwh616irDxuFI6uwYFdWunyzUB4EjV7NO8X2i05fhvlWM2\', NULL, NULL, 0, \'f97284a342ee40002ee88d8e1414e0f1457cbeb1\', \'2024-06-06 12:33:54\', \'2024-06-06 12:33:54\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$R3dubu2Cwh616irDxuFI6uwYFdWunyzUB4EjV7NO8X2i05fhvlWM2\', NULL, NULL, 0, \'f97284a342ee40002ee88d8e1414e0f1457cbeb1\', \'2024-06-06 12:33:54\', \'2024-06-06 12:33:54\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 12:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-06 12:36:20 --> mysqli_sql_exception: Column 'user' cannot be null in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `us...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Usuarios.php(92): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-06-06 12:36:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'user' cannot be null
+[Method: POST, Route: usuario/guardar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 12:36:20 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$y03nYxDaPm13pTAzmqFDruTRTyPhetdwwa9vac/MXzwoHTxSWdVaW\', NULL, NULL, 0, \'e53908ad293c048d77f0bac51f3cdf0c5e49f513\', \'2024-06-06 12:36:20\', \'2024-06-06 12:36:20\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$y03nYxDaPm13pTAzmqFDruTRTyPhetdwwa9vac/MXzwoHTxSWdVaW\', NULL, NULL, 0, \'e53908ad293c048d77f0bac51f3cdf0c5e49f513\', \'2024-06-06 12:36:20\', \'2024-06-06 12:36:20\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-06 12:36:20 --> [Caused by] mysqli_sql_exception: Column 'user' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$y03nYxDaPm13pTAzmqFDruTRTyPhetdwwa9vac/MXzwoHTxSWdVaW\', NULL, NULL, 0, \'e53908ad293c048d77f0bac51f3cdf0c5e49f513\', \'2024-06-06 12:36:20\', \'2024-06-06 12:36:20\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$y03nYxDaPm13pTAzmqFDruTRTyPhetdwwa9vac/MXzwoHTxSWdVaW\', NULL, NULL, 0, \'e53908ad293c048d77f0bac51f3cdf0c5e49f513\', \'2024-06-06 12:36:20\', \'2024-06-06 12:36:20\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (NULL, \'$2y$10$y03nYxDaPm13pTAzmqFDruTRTyPhetdwwa9vac/MXzwoHTxSWdVaW\', NULL, NULL, 0, \'e53908ad293c048d77f0bac51f3cdf0c5e49f513\', \'2024-06-06 12:36:20\', \'2024-06-06 12:36:20\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`user`, `user_passwd`, `user_name`, `user_email`, `user_active`, `user_token`, `created_at`, `updated_at`) VALUES (:user:, :user_passwd:, :user_name:, :user_email:, :user_active:, :user_token:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Usuarios.php(92): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 12:39:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 12:39:58 --> ErrorException: Undefined array key "name"
+[Method: POST, Route: usuario/guardar]
+in APPPATH\Controllers\Usuarios.php on line 95.
+ 1 APPPATH\Controllers\Usuarios.php(95): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 95)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 12:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 12:40:14 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: usuario/guardar]
+in APPPATH\Controllers\Usuarios.php on line 102.
+ 1 APPPATH\Controllers\Usuarios.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "email"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 102)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 12:40:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 12:40:45 --> ErrorException: Undefined array key "name"
+[Method: POST, Route: usuario/guardar]
+in APPPATH\Controllers\Usuarios.php on line 106.
+ 1 APPPATH\Controllers\Usuarios.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Usuarios.php', 106)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 12:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-06 12:41:00 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo for smtp-mail.outlook.com failed: Host desconocido.  in C:\xampp\htdocs\codeigniter4\system\Email\Email.php:1896
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1896)
+#1 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1896): fsockopen('smtp-mail.outlo...', 587, NULL, NULL, 3)
+#2 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1809): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1694): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1589): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Usuarios.php(111): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+ERROR - 2024-06-06 12:41:00 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2024-06-06 12:41:00 --> 
+CRITICAL - 2024-06-06 12:41:00 --> Error: Call to undefined method App\Controllers\Usuarios::showMessage()
+[Method: POST, Route: usuario/guardar]
+in APPPATH\Controllers\Usuarios.php on line 116.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 12:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-06 12:41:48 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo for smtp-mail.outlook.com failed: Host desconocido.  in C:\xampp\htdocs\codeigniter4\system\Email\Email.php:1896
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1896)
+#1 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1896): fsockopen('smtp-mail.outlo...', 587, NULL, NULL, 3)
+#2 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1809): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1694): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1589): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Usuarios.php(111): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+ERROR - 2024-06-06 12:41:48 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2024-06-06 12:41:48 --> 
+INFO - 2024-06-06 12:41:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-06 12:42:28 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo for smtp-mail.outlook.com failed: Host desconocido.  in C:\xampp\htdocs\codeigniter4\system\Email\Email.php:1896
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1896)
+#1 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1896): fsockopen('smtp-mail.outlo...', 587, NULL, NULL, 3)
+#2 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1809): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1694): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1589): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Usuarios.php(111): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+ERROR - 2024-06-06 12:42:28 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2024-06-06 12:42:28 --> 
+INFO - 2024-06-06 12:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-06 12:44:46 --> Email: sendWithSmtp throwed ErrorException: fsockopen(): php_network_getaddresses: getaddrinfo for smtp-mail.outlook.com failed: Host desconocido.  in C:\xampp\htdocs\codeigniter4\system\Email\Email.php:1896
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fsockopen(): ph...', 'C:\\xampp\\htdocs...', 1896)
+#1 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1896): fsockopen('smtp-mail.outlo...', 587, NULL, NULL, 3)
+#2 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1809): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1694): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\codeigniter4\system\Email\Email.php(1589): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\codeigniter4\app\Controllers\Usuarios.php(111): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+ERROR - 2024-06-06 12:44:46 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2024-06-06 12:44:46 --> 
+INFO - 2024-06-06 12:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 12:48:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 12:48:29 --> CodeIgniter\Validation\Exceptions\ValidationException: "in_table" is not a valid rule.
+[Method: POST, Route: usuario/guardar]
+in SYSTEMPATH\Validation\Validation.php on line 345.
+ 1 SYSTEMPATH\Validation\Validation.php(345): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('in_table')
+ 2 SYSTEMPATH\Validation\Validation.php(201): CodeIgniter\Validation\Validation->processRules('carnet', 'carnet', 'fafre', [...], [...], 'carnet')
+ 3 SYSTEMPATH\Controller.php(137): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Usuarios.php(33): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 15:09:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 15:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 15:10:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 15:10:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 15:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-06 15:12:01 --> Error: Undefined constant "base_url"
+[Method: GET, Route: evento]
+in APPPATH\Views\eventos\index.php on line 75.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('eventos/index', [], true)
+ 4 APPPATH\Controllers\Eventos.php(12): view('eventos/index')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Eventos->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-06 15:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-06 15:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

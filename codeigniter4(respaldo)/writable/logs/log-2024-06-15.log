@@ -1,0 +1,1631 @@
+INFO - 2024-06-15 08:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 08:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 08:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 08:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 08:54:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 08:54:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 08:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 08:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 08:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 08:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 08:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 09:28:20 --> ErrorException: Trying to access array offset on value of type bool
+[Method: POST, Route: register]
+in APPPATH\Controllers\Users.php on line 96.
+ 1 APPPATH\Controllers\Users.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type bool', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Users.php', 96)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->create()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 09:33:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 09:33:05 --> ErrorException: Trying to access array offset on value of type bool
+[Method: POST, Route: register]
+in APPPATH\Controllers\Users.php on line 96.
+ 1 APPPATH\Controllers\Users.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type bool', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Users.php', 96)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->create()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 09:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 09:34:33 --> ErrorException: Trying to access array offset on value of type bool
+[Method: POST, Route: register]
+in APPPATH\Controllers\Users.php on line 96.
+ 1 APPPATH\Controllers\Users.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type bool', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Users.php', 96)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->create()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 09:44:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 09:44:13 --> ErrorException: Trying to access array offset on value of type bool
+[Method: POST, Route: register]
+in APPPATH\Controllers\Users.php on line 96.
+ 1 APPPATH\Controllers\Users.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type bool', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Users.php', 96)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->create()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 09:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 09:45:42 --> ErrorException: Trying to access array offset on value of type bool
+[Method: POST, Route: register]
+in APPPATH\Controllers\Users.php on line 96.
+ 1 APPPATH\Controllers\Users.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type bool', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Users.php', 96)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->create()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 09:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:45:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:51:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 09:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:05:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:05:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:05:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:06:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 10:08:38 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2024-06-15 10:08:38 --> 220 BN8PR07CA0012.outlook.office365.com Microsoft ESMTP MAIL Service ready at Sat, 15 Jun 2024 14:08:32 +0000
+
+hello: 250-BN8PR07CA0012.outlook.office365.com Hello [170.83.76.130]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 SMTP server ready
+
+hello: 250-BN8PR07CA0012.outlook.office365.com Hello [170.83.76.130]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN XOAUTH2
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 
+INFO - 2024-06-15 10:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:09:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:11:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 10:11:40 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2024-06-15 10:11:40 --> 220 BN8PR07CA0010.outlook.office365.com Microsoft ESMTP MAIL Service ready at Sat, 15 Jun 2024 14:11:34 +0000
+
+hello: 250-BN8PR07CA0010.outlook.office365.com Hello [170.83.76.130]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 SMTP server ready
+
+hello: 250-BN8PR07CA0010.outlook.office365.com Hello [170.83.76.130]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-AUTH LOGIN XOAUTH2
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 
+INFO - 2024-06-15 10:11:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 10:41:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "eventos/index.php"
+[Method: GET, Route: evento]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('eventos/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('eventos/index', [], true)
+ 3 APPPATH\Controllers\Eventos.php(12): view('eventos/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Eventos->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Eventos))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 10:44:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 10:47:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 11:16:09 --> ParseError: syntax error, unexpected single-quoted string "bitacora_ip", expecting "]"
+[Method: GET, Route: logout]
+in APPPATH\Controllers\Login.php on line 45.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:17:41 --> ParseError: syntax error, unexpected single-quoted string "bitacora_ip", expecting "]"
+[Method: GET, Route: logout]
+in APPPATH\Controllers\Login.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:18:14 --> ParseError: syntax error, unexpected single-quoted string "bitacora_ip", expecting "]"
+[Method: GET, Route: logout]
+in APPPATH\Controllers\Login.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:19:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 11:19:23 --> Error: Call to undefined function App\Controllers\obtenerDireccionIP()
+[Method: POST, Route: auth]
+in APPPATH\Controllers\Login.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 11:20:56 --> Error: Call to undefined function App\Controllers\obtenerDireccionIP()
+[Method: POST, Route: auth]
+in APPPATH\Controllers\Login.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 11:26:09 --> Error: Call to undefined function App\Controllers\obtenerDireccionIP()
+[Method: POST, Route: auth]
+in APPPATH\Controllers\Login.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:27:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 11:27:57 --> Error: Call to undefined function App\Controllers\obtenerDireccionIP()
+[Method: POST, Route: auth]
+in APPPATH\Controllers\Login.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 11:34:05 --> ErrorException: Undefined property: App\Controllers\Login::$bita
+[Method: POST, Route: auth]
+in APPPATH\Controllers\Login.php on line 100.
+ 1 APPPATH\Controllers\Login.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Login::$bita', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Login.php', 100)
+ 2 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:35:09 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(100): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:35:09 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:35:09 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:35:09\', \'2024-06-15 11:35:09\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:35:09\', \'2024-06-15 11:35:09\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:35:09 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:35:09\', \'2024-06-15 11:35:09\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:35:09\', \'2024-06-15 11:35:09\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:35:09\', \'2024-06-15 11:35:09\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:36:00 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(100): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:36:00 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:36:00 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:36:00\', \'2024-06-15 11:36:00\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:36:00\', \'2024-06-15 11:36:00\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:36:00 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:36:00\', \'2024-06-15 11:36:00\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:36:00\', \'2024-06-15 11:36:00\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:36:00\', \'2024-06-15 11:36:00\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:36:34 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(100): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:36:34 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:36:34 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:36:33\', \'2024-06-15 11:36:33\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:36:33\', \'2024-06-15 11:36:33\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:36:34 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:36:33\', \'2024-06-15 11:36:33\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:36:33\', \'2024-06-15 11:36:33\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:36:33\', \'2024-06-15 11:36:33\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:39:40 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(100): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:39:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:39:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:39:40\', \'2024-06-15 11:39:40\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:39:40\', \'2024-06-15 11:39:40\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:39:40 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:39:40\', \'2024-06-15 11:39:40\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:39:40\', \'2024-06-15 11:39:40\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:39:40\', \'2024-06-15 11:39:40\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 11:40:00 --> Error: Call to undefined method App\Controllers\Login::bitacora()
+[Method: POST, Route: auth]
+in APPPATH\Controllers\Login.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:40:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:40:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:40:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:41:03 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(100): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:41:03 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:41:03 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:41:03\', \'2024-06-15 11:41:03\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:41:03\', \'2024-06-15 11:41:03\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:41:03 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:41:03\', \'2024-06-15 11:41:03\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:41:03\', \'2024-06-15 11:41:03\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:41:03\', \'2024-06-15 11:41:03\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:41:44 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(100): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:41:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:41:44 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:41:44\', \'2024-06-15 11:41:44\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:41:44\', \'2024-06-15 11:41:44\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:41:44 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:41:44\', \'2024-06-15 11:41:44\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:41:44\', \'2024-06-15 11:41:44\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:41:44\', \'2024-06-15 11:41:44\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:42:44 --> ParseError: syntax error, unexpected token "echo"
+[Method: POST, Route: auth]
+in APPPATH\Controllers\Login.php on line 91.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:43:01 --> ParseError: syntax error, unexpected token "echo"
+[Method: POST, Route: auth]
+in APPPATH\Controllers\Login.php on line 91.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:43:20 --> ParseError: syntax error, unexpected token "echo"
+[Method: POST, Route: auth]
+in APPPATH\Controllers\Login.php on line 91.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:44:42 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(99): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:44:42 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(99): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:44:42 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:44:42\', \'2024-06-15 11:44:42\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:44:42\', \'2024-06-15 11:44:42\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(99): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:44:42 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:44:42\', \'2024-06-15 11:44:42\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:44:42\', \'2024-06-15 11:44:42\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:44:42\', \'2024-06-15 11:44:42\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(99): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:44:48 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(99): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:44:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(99): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:44:48 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:44:48\', \'2024-06-15 11:44:48\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:44:48\', \'2024-06-15 11:44:48\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(99): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:44:48 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:44:48\', \'2024-06-15 11:44:48\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:44:48\', \'2024-06-15 11:44:48\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:44:48\', \'2024-06-15 11:44:48\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(99): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:46:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:46:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:46:47 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(100): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:46:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:46:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:46:47\', \'2024-06-15 11:46:47\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:46:47\', \'2024-06-15 11:46:47\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:46:47 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:46:47\', \'2024-06-15 11:46:47\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:46:47\', \'2024-06-15 11:46:47\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:46:47\', \'2024-06-15 11:46:47\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:47:04 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(99): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:47:04 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(99): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:47:04 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'127.0.0.1\', \'2024-06-15 11:47:04\', \'2024-06-15 11:47:04\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'127.0.0.1\', \'2024-06-15 11:47:04\', \'2024-06-15 11:47:04\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(99): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:47:04 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'127.0.0.1\', \'2024-06-15 11:47:04\', \'2024-06-15 11:47:04\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'127.0.0.1\', \'2024-06-15 11:47:04\', \'2024-06-15 11:47:04\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'127.0.0.1\', \'2024-06-15 11:47:04\', \'2024-06-15 11:47:04\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(99): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:47:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 11:47:18 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+[Method: POST, Route: auth]
+in SYSTEMPATH\BaseModel.php on line 1833.
+ 1 SYSTEMPATH\BaseModel.php(1833): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH\BaseModel.php(806): CodeIgniter\BaseModel->transformDataToArray([], 'insert')
+ 3 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([], true)
+ 4 APPPATH\Controllers\Login.php(96): CodeIgniter\Model->insert([])
+ 5 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:48:18 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(101): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:48:18 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(101): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:48:18 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:48:18\', \'2024-06-15 11:48:18\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:48:18\', \'2024-06-15 11:48:18\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(101): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:48:18 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:48:18\', \'2024-06-15 11:48:18\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:48:18\', \'2024-06-15 11:48:18\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:48:18\', \'2024-06-15 11:48:18\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(101): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:53:07 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(100): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:53:07 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:53:07 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:53:07\', \'2024-06-15 11:53:07\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:53:07\', \'2024-06-15 11:53:07\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:53:07 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:53:07\', \'2024-06-15 11:53:07\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:53:07\', \'2024-06-15 11:53:07\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'Inició sesión\', \'2024-06-15 11:53:07\', \'2024-06-15 11:53:07\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(100): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:53:52 --> mysqli_sql_exception: Operand should contain 1 column(s) in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(98): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:53:52 --> CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `created_at`, `updated_at`) VALUES (:user:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(98): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:53:52 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'2024-06-15 11:53:52\', \'2024-06-15 11:53:52\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'2024-06-15 11:53:52\', \'2024-06-15 11:53:52\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `created_at`, `updated_at`) VALUES (:user:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(98): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:53:52 --> [Caused by] mysqli_sql_exception: Operand should contain 1 column(s)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'2024-06-15 11:53:52\', \'2024-06-15 11:53:52\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'2024-06-15 11:53:52\', \'2024-06-15 11:53:52\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `created_at`, `updated_at`) VALUES ((\'36\',\'antahony\',\'$2y$10$RNqZNoMglrHs2phm.SqLbuf9CftqbtQNTMgQIJ.aF5K4CC5T8rZh.\',\'0\',\'anthony\',\'osorio\',\'antahony@gmail.com\',\'1\',\'25\',\'\',NULL,NULL,\'2024-06-15 10:11:35\',\'2024-06-15 10:11:35\',\'0000-00-00 00:00:00\'), \'2024-06-15 11:53:52\', \'2024-06-15 11:53:52\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `created_at`, `updated_at`) VALUES (:user:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(98): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora([...])
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:54:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-06-15 11:54:49 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:308
+Stack trace:
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bi...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bi...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bi...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bi...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(791): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(101): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Login.php(42): App\Controllers\Login->bitacora('antahony')
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(933): App\Controllers\Login->auth()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\codeigniter4\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2024-06-15 11:54:49 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: auth]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Login.php(101): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora('antahony')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:54:49 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 313.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (\'antahony\', \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:54:49\', \'2024-06-15 11:54:49\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (\'antahony\', \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:54:49\', \'2024-06-15 11:54:49\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Login.php(101): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora('antahony')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-15 11:54:49 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 308.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(308): mysqli->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (\'antahony\', \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:54:49\', \'2024-06-15 11:54:49\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (\'antahony\', \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:54:49\', \'2024-06-15 11:54:49\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (\'antahony\', \'Inició sesión\', \'127.0.0.1\', \'2024-06-15 11:54:49\', \'2024-06-15 11:54:49\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bitacora` (`user`, `bitacora_detalles`, `bitacora_ip`, `created_at`, `updated_at`) VALUES (:user:, :bitacora_detalles:, :bitacora_ip:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(383): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(791): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Login.php(101): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Login.php(42): App\Controllers\Login->bitacora('antahony')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Login->auth()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 11:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:58:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 11:59:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:03:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:05:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:15:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:36:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:36:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:37:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:37:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:37:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:37:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 12:43:11 --> ErrorException: Undefined property: App\Filters\AuthFilter::$load
+[Method: GET, Route: inicio]
+in APPPATH\Filters\AuthFilter.php on line 15.
+ 1 APPPATH\Filters\AuthFilter.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Filters\\AuthFilter::$load', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Filters\\AuthFilter.php', 15)
+ 2 SYSTEMPATH\Filters\Filters.php(203): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 3 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 4 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('inicio', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 12:50:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:50:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:50:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:50:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:54:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:55:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:55:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 12:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:17:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:30:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:30:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:31:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:31:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:31:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:31:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:43:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 13:48:42 --> ErrorException: Undefined array key "user"
+[Method: GET, Route: perfil]
+in APPPATH\Views\perfil\index.php on line 31.
+ 1 APPPATH\Views\perfil\index.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "user"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\perfil\\index.php', 31)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\perfil\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('perfil/index', [], true)
+ 5 APPPATH\Controllers\Perfil.php(13): view('perfil/index')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perfil->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perfil))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 13:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 13:48:55 --> ParseError: syntax error, unexpected token "=>", expecting "]"
+[Method: GET, Route: logout]
+in APPPATH\Controllers\Login.php on line 56.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Login.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Login')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Login')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Login', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 13:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:49:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:50:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:57:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:58:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:58:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 13:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:02:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:02:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 14:19:42 --> ParseError: syntax error, unexpected token "endforeach", expecting end of file
+[Method: GET, Route: perfil]
+in APPPATH\Views\perfil\index.php on line 62.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('perfil/index', [], true)
+ 3 APPPATH\Controllers\Perfil.php(17): view('perfil/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perfil->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perfil))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 14:20:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 14:20:50 --> ParseError: syntax error, unexpected token "endforeach", expecting end of file
+[Method: GET, Route: perfil]
+in APPPATH\Views\perfil\index.php on line 62.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('perfil/index', [], true)
+ 3 APPPATH\Controllers\Perfil.php(17): view('perfil/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perfil->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perfil))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 14:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 14:23:22 --> ErrorException: Undefined array key "rol_name"
+[Method: GET, Route: perfil]
+in APPPATH\Views\perfil\index.php on line 54.
+ 1 APPPATH\Views\perfil\index.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "rol_name"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\perfil\\index.php', 54)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\perfil\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('perfil/index', [], true)
+ 5 APPPATH\Controllers\Perfil.php(17): view('perfil/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perfil->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perfil))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 14:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 14:23:35 --> ErrorException: Undefined array key "name"
+[Method: GET, Route: perfil]
+in APPPATH\Views\perfil\index.php on line 54.
+ 1 APPPATH\Views\perfil\index.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\perfil\\index.php', 54)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\perfil\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('perfil/index', [], true)
+ 5 APPPATH\Controllers\Perfil.php(17): view('perfil/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perfil->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perfil))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 14:23:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 14:28:42 --> ParseError: syntax error, unexpected token "echo"
+[Method: GET, Route: perfil]
+in APPPATH\Views\perfil\index.php on line 39.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('perfil/index', [], true)
+ 3 APPPATH\Controllers\Perfil.php(17): view('perfil/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perfil->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perfil))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 14:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-06-15 14:29:06 --> ParseError: syntax error, unexpected token "echo"
+[Method: GET, Route: perfil]
+in APPPATH\Views\perfil\index.php on line 39.
+ 1 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('perfil/index', [], true)
+ 3 APPPATH\Controllers\Perfil.php(17): view('perfil/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Perfil->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Perfil))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2024-06-15 14:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:29:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:34:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:35:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:37:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:37:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:37:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:37:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:38:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:48:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:49:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:49:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 14:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:02:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:02:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:06:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:20:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:20:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:34:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:34:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:34:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:35:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:35:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 15:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:32:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:33:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:33:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:33:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:35:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:45:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:45:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-06-15 23:47:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

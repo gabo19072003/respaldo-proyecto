@@ -8,11 +8,14 @@
           </button>
 
           <div class="navbar-brand-wrapper">
+<!--
             <a class="navbar-brand brand-logo" href="#"><img src="<?= base_url('public/images/logo.png'); ?>" width="60" alt="logo"/></a>
             <a class="navbar-brand brand-logo-mini" href="#"><img src="<?= base_url('public/images/logo.png'); ?>" width="30" alt="logo"/></a>
+         --> 
+         
           </div>
 
-          <h4 class="font-weight-bold mb-0 d-none d-md-block mt-1">Bienvenido a la Biblioteca Michel Roche</h4>
+          <h4 class="font-weight-bold mb-0 d-none d-md-block mt-1">. . .Bienvenido a la Biblioteca </h4><!-- Michel Roche --> 
 
           <ul class="navbar-nav navbar-nav-right">
 
